@@ -1,0 +1,6 @@
+.vs
+TestResults
+BusinessLayer/bin
+BusinessLayer/obj
+visual-studio-unittest/bin
+visual-studio-unittest/obj
